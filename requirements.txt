@@ -1,0 +1,6 @@
+flask
+flask-socketio
+pydub
+google-cloud-speech
+gevent-websocket
+gunicorn
